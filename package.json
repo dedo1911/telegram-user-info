@@ -13,6 +13,6 @@
   "author": "dedo1911",
   "license": "UNLICENSED",
   "dependencies": {
-    "open-graph": "^0.2.3"
+    "open-graph": "^0.2.4"
   }
 }
