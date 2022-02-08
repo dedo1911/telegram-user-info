@@ -1,6 +1,6 @@
 {
   "name": "telegram-user-info",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "Obtain Telegram user profile informations",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,8 @@
   "author": "dedo1911",
   "license": "UNLICENSED",
   "dependencies": {
-    "open-graph": "^0.2.4"
+    "json-schema": "^0.4.0",
+    "nth-check": "^2.0.1",
+    "open-graph": "^0.2.6"
   }
 }
